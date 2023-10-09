@@ -8,7 +8,7 @@
   * [2582. 递枕头](shu-xue-lei-xing/he-ji-2500+/2582.-di-zhen-tou.md)
   * [1342.将数字变成0的次数](shu-xue-lei-xing/he-ji-2500+/1342.-jiang-shu-zi-bian-cheng-0-de-ci-shu.md)
 
-## 🥝 数组
+## 数组
 
 * [合集 1-500](shu-zu/he-ji-1500.md)
 * [合集 500-1000](shu-zu/he-ji-5001000.md)
