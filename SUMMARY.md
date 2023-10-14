@@ -45,3 +45,4 @@
 
 * [小知识点集合](xiao-zhi-shi-dian/xiao-zhi-shi-dian-ji-he/README.md)
   * [auto 关键词和基于范围的 for 循环（C++11）](xiao-zhi-shi-dian/xiao-zhi-shi-dian-ji-he/auto-guan-jian-ci-he-ji-yu-fan-wei-de-for-xun-huan-c++11.md)
+  * [常用函数总结 cnt \[ ch-‘a‘ \]](xiao-zhi-shi-dian/xiao-zhi-shi-dian-ji-he/chang-yong-han-shu-zong-jie-cnt-cha.md)
